@@ -1,5 +1,5 @@
 # CookieSatisfactory
-the sacred cookie, makes infinite cookie for absolutely no reasn
+the sacred cookie, makes infinite cookies for absolutely no reason
 
 <img width="200" alt="idiotic" src="https://cdn.discordapp.com/emojis/1099049454977437807.webp?size=44">
 
